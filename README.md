@@ -32,8 +32,8 @@ To run Analytx locally, follow these steps:
 2. Navigate to the project directory.
 
 ```bash
-git clone https://github.com/Lordhacker756/analytx
-cd analytx
+git clone https://github.com/margamvinay7/analytxServer
+cd analytxServer
 ```
 
 3. Ensure you have Docker installed on your system.
@@ -51,6 +51,3 @@ docker-compose up
 
 Contributions to Analytx are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue on the GitHub repository.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
